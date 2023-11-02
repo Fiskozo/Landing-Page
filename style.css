@@ -108,6 +108,11 @@ ul {
     height: 150px;
 }
 
+.info-sub{
+    padding: 10px;
+    color: #999a9c;
+    
+}
 .quote {
     display: flex;
     justify-content: center;
@@ -123,7 +128,7 @@ ul {
 .quote-text {
     font-size: 36px;
     font-style: italic;
-    color: #1F2937;
+    color: #1f293785;
 }
 
 .signature {
