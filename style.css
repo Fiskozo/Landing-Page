@@ -107,3 +107,27 @@ ul {
     width: 150px;
     height: 150px;
 }
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7ebd3;
+    padding: 100px;
+}
+
+.quote-container {
+    width: 750px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.signature {
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+}
