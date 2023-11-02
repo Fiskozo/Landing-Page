@@ -135,3 +135,11 @@ ul {
     justify-content: flex-end;
     margin-right: 80px;
 }
+
+.newsletter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
