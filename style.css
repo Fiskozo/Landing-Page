@@ -38,7 +38,7 @@ ul {
     display: flex;
 }
 
-.container {
+.hero-container {
     display: flex;
     width: 500px;
     flex-direction: column;
