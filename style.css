@@ -166,3 +166,13 @@ ul {
     padding: 0px 30px 0px;
     border-style: solid;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
